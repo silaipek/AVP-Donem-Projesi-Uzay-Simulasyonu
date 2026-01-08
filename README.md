@@ -42,6 +42,3 @@ Bu proje bireysel olarak geliştirilmiştir.
 
 ## Kullanılan Kaynaklar
 Bu proje hazırlanırken kullanılan fizik formüllerinin doğruluğunu kontrol etmek amacıyla temel fizik kaynaklarından,ders notlarından  C dilinde menü yapısı, fonksiyon kullanımı vetemel giriş/çıkış işlemleri ile ilgili bazı örnek kodlardan ve çevrimiçi kaynaklardan yararlanılmıştır.
-
-
-Örnek:
